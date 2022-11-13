@@ -6,7 +6,7 @@ var username = '';
 var password = '';
 var shared_secret = '';
 
-var games = [730, 440, 570];  // Enter here AppIDs of the needed games
+var games = [730, 240, 1237950, 1238840, 1222670, 578080, 359550];  // Enter here AppIDs of the needed games
 var status = 1;  // 1 - online, 7 - invisible
 
 
